@@ -1,0 +1,6 @@
+https://github.com/PySimpleGUI/PySimpleGUI
+https://github.com/praw-dev/praw
+https://github.com/r-spacex/submanager
+https://github.com/dirtydanisreal/VBAmax
+https://github.com/Mercury-Language/mercury
+

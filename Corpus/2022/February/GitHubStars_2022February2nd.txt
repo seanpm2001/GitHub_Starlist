@@ -1,0 +1,8 @@
+https://github.com/NagyD/SDLPoP/tree/master
+https://github.com/alex47exe/Prince-of-Persia-TSoT_WidescreenLauncher_v2
+https://github.com/jmechner/Prince-of-Persia-Apple-II
+https://github.com/alex47exe/Prince-of-Persia-WW_WidescreenLauncher_v2
+https://github.com/alex47exe/Prince-of-Persia-T2T_WidescreenLauncher_v2
+https://github.com/gnuradio/gnuradio
+https://github.com/gnuradio/volk
+

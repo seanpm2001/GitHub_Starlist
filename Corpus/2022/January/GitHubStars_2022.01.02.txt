@@ -1,0 +1,7 @@
+https://github.com/HandBrake/HandBrake-docs
+https://github.com/HandBrake/HandBrake
+https://github.com/HandBrake/handbrake.github.io
+https://github.com/FOSSRIT/infoboard
+https://github.com/AnmolJayan/Stop-Widevine
+https://github.com/Satsuoni/widevine-l3-guesser
+

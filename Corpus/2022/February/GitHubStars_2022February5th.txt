@@ -1,0 +1,12 @@
+https://github.com/cpp-frug/materials
+https://github.com/BruXy/gnulinux.guru
+https://github.com/warzone2100/warzone2100/
+https://github.com/diddlesnaps/openra/blob/master/snap/snapcraft.yaml
+https://github.com/gocarlos/krop
+https://github.com/gravitystorm/openstreetmap-carto
+<!--
+https://github.com/Warzone2100/warzone2100
+https://github.com/diddlesnaps/openra
+https://github.com/gocarlos/krop
+!-->
+
