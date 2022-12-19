@@ -1,0 +1,45 @@
+@seanpm2001
+https://github.com/android/cose-lib
+https://github.com/android/ndk
+https://github.com/android/ndk-samples
+https://github.com/android/performance-samples
+https://github.com/android/animation-samples
+https://github.com/android/architecture-templates
+https://github.com/android/enterprise-samples
+https://github.com/android/tuningfork
+https://github.com/android/media-samples
+https://github.com/android/views-widgets-samples
+https://github.com/android/architecture-samples
+https://github.com/android/play-billing-samples
+https://github.com/android/uamp
+https://github.com/android/storage-samples
+https://github.com/android/app-bundle-samples
+@seanwallawalla
+https://github.com/seanpm2001/Learn-CSON
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSON
+https://github.com/seanpm2001/Learn-Maxima
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Maxima
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ReStructuredText
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSSS
+https://github.com/seanpm2001/Learn-JScript.NET
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_R
+https://github.com/seanpm2001/Learn-Mustache
+https://github.com/seanpm2001/Learn-RobotFramework
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RobotFramework
+https://github.com/seanpm2001/Learn-AspectJ
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AspectJ
+https://github.com/seanpm2001/Learn-RUNOFF
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RUNOFF
+https://github.com/seanpm2001/Learn-PowerFX
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PowerFX
+https://github.com/seanpm2001/Learn-ABNF
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABNF
+https://github.com/seanpm2001/Learn-PostCSS
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PostCSS
+https://github.com/seanpm2001/Learn-Max
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Max
+https://github.com/seanpm2001/Learn-ABAP-CDS
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABAP-CDS
+https://github.com/seanpm2001/Learn-OrgMode
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OrgMode
+https://github.com/seanpm2001/Learn-SublimeText

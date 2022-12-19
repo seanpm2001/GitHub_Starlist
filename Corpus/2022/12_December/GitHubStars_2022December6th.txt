@@ -1,0 +1,55 @@
+@seanpm2001
+https://github.com/android/camera-samples
+https://github.com/android/games-samples
+https://github.com/android/midi-samples
+https://github.com/ypraw/configDotfiles
+https://github.com/ICY105/Datapack-Utilities
+https://github.com/earok/BlitzBasicDemos
+[ALREADY STARRED] https://github.com/discord/discord-api-docs
+[ALREADY STARRED] https://github.com/discord/airhornbot
+https://github.com/notepadqq/example-extensions
+https://github.com/notepadqq/notepadqq-packaging
+https://github.com/HubertD/candleLight
+https://github.com/cosimo/perl6-lwp-simple
+https://github.com/discord/ex_hash_ring
+[ALREADY STARRED] https://github.com/discord/discord-open-source
+https://github.com/discord/erlpack
+[ALREADY STARRED] https://github.com/discord/discord-interactions-js
+https://github.com/discord/lilliput
+https://github.com/discord/gen_registry
+https://github.com/discord/discord-example-app
+https://github.com/discord/dynamic-pool
+https://github.com/discord/lilliput-dep-source
+@seanwallawalla
+https://github.com/seanpm2001/Learn-Textile
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Textile
+https://github.com/seanpm2001/Learn-JSON5
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSON5
+https://github.com/seanpm2001/Learn-QueryByExample
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QueryByExample
+https://github.com/seanpm2001/Learn-Latte
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Latte
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_nesC
+https://github.com/seanpm2001/Learn-AGS-Script
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Yacc
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AGS-Script
+https://github.com/seanpm2001/Learn-BlitzBasic
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BlitzBasic
+https://github.com/seanpm2001/Learn-McFunction
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_McFunction
+https://github.com/seanpm2001/Learn-SASL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SASL
+https://github.com/seanpm2001/Learn-VisualLogic
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VisualLogic
+https://github.com/seanpm2001/Learn-Amulet
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Amulet
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSON
+https://github.com/seanpm2001/Learn-Chapel
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mallard
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Chapel
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_-EDK2-
+https://github.com/seanpm2001/Learn-PlantUML
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PlantUML
+https://github.com/seanpm2001/Learn-RPGLE
+

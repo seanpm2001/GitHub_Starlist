@@ -1,0 +1,61 @@
+@seanpm2001
+https://github.com/snapcore/pc-amd64-gadget
+https://github.com/snapcore/pi2-gadget
+https://github.com/snapcore/snap-confine
+https://github.com/snapcore/cm3-gadget
+https://github.com/snapcore/snapd-plus-vendor
+https://github.com/snapcore/spread
+https://github.com/snapcore/snapdocs
+https://github.com/snapcore/classic-snap
+https://github.com/snapcore/snapd-testing-tools
+https://github.com/snapcore/core-initrd
+https://github.com/snapcore/base-18
+https://github.com/snapcore/snapd-xdg-open
+https://github.com/snapcore/sample-kernels
+[ALREADY STARRED] https://github.com/snapcore/snapd-desktop-integration
+https://github.com/snapcore/secboot
+https://github.com/snapcore/pc-i386-gadget
+https://github.com/snapcore/action-build
+https://github.com/snapcore/meta-snapd
+@seanwallawalla
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Haskell
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Joy
+https://github.com/seanpm2001/Learn-Jade
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hack
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jade
+https://github.com/seanpm2001/Learn-Mallard
+https://github.com/seanpm2001/Learn-TLA
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TLA
+https://github.com/seanpm2001/Learn-AIDL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AIDL
+https://github.com/seanpm2001/Learn-CodeQL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CodeQL
+https://github.com/seanpm2001/Learn-ReScript
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ReScript
+https://github.com/seanpm2001/Learn-GN
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GN
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Idris
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mallard
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ImageJ
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FORTRAN_-FORmula_TRANslation-
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GDScript
+https://github.com/seanpm2001/Learn-ANTLR
+https://github.com/seanpm2001/Learn-SASS
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SASS
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ANTLR
+https://github.com/seanpm2001/Learn-CLIPS
+https://github.com/seanpm2001/Learn-B
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_B
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CLIPS
+https://github.com/seanpm2001/Learn-SGML
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SGML_-Standard_Generalized_Markup_Language-
+https://github.com/seanpm2001/Learn-ALS
+https://github.com/seanpm2001/Learn-S-RECORD
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SREC-MotorolaS-RecordBinaryData-
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ALS
+https://github.com/seanpm2001/Learn-Starlark
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Starlark
+https://github.com/seanpm2001/Learn-CommonWorkflowLanguage
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Inform
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CommonWorkflowLanguage
+

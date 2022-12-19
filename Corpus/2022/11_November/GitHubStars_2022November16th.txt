@@ -1,0 +1,50 @@
+@seanpm2001
+https://github.com/twitter/BreakoutDetection
+https://github.com/twitter/innovators-patent-agreement
+https://github.com/twitter/activerecord-reputation-system
+https://github.com/twitter/util
+https://github.com/twitter/focus
+https://github.com/atom/.github
+https://github.com/atom/atom.io
+https://github.com/atom/gsoc-atom
+https://github.com/atom/avm
+https://github.com/atom/language-examples
+https://github.com/atom/ide-php
+https://github.com/atom/cached-run-in-this-context
+https://github.com/atom/electron-child-process-test
+https://github.com/atom/ide-csharp
+https://github.com/atom/autocomplete-html
+https://github.com/atom/etch
+https://github.com/atom/fuzzy-finder
+https://github.com/atom/open-on-github
+https://github.com/atom/dom-listener
+https://github.com/atom/autocomplete-atom-api
+https://github.com/atom/autocomplete-css
+https://github.com/atom/atom-text-editor-exercise
+https://github.com/atom/selector-kit
+@seanwallawalla
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Makefile
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CMake
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ZenScript
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Racket
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FreeMarker
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Idris
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TeX
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SuperCollider
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BibTeX
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_J
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nix
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Home
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_GitHubMode
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Facade
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Root
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_-Repositories
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_UserModes
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_-TAG
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Snowcraft
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Samples
+https://github.com/seanpm2001/Meadows-Network-Troubleshooter
+https://github.com/seanpm2001/Learn-Erlang
+https://github.com/seanpm2001/Learn-Scala
+https://github.com/seanpm2001/Learn-Clojure
+https://github.com/seanpm2001/Learn-CMake

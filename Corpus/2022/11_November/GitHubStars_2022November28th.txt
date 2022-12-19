@@ -1,0 +1,57 @@
+@seanpm2001
+https://github.com/snapcore/snap-store-badges
+https://github.com/snapcore/pi3-gadget
+https://github.com/snapcore/core16
+https://github.com/snapcore/core-splash
+https://github.com/snapcore/snapweb
+https://github.com/snapcore/snapcraft-preloads
+https://github.com/snapcore/fc-cache-static-builder
+https://github.com/snapcore/core-build
+https://github.com/snapcore/bare-base
+https://github.com/snapcore/dragonboard-gadget
+https://github.com/snapcore/action-publish
+https://github.com/snapcore/maze.io-x-crypto
+https://github.com/snapcore/core
+https://github.com/snapcore/core18
+https://github.com/snapcore/test-snapd-cups-consumer
+@seanwallawalla
+https://github.com/seanpm2001/Learn-ABAP
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABAP
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CMake
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QMake
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_D
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HiveQL
+https://github.com/seanpm2001/Learn-PureData
+https://github.com/seanpm2001/Learn-Hope
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hope
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureData
+https://github.com/seanpm2001/Learn-NGINX
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NGINX
+https://github.com/seanpm2001/Learn-AL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AL
+https://github.com/seanpm2001/Learn-BASIC
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BASIC
+https://github.com/seanpm2001/Learn-ALGOL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ALGOL
+https://github.com/seanpm2001/Learn-XQuery
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Docker
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XQuery
+https://github.com/seanpm2001/Learn-GCC-Machine-Description
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Eiffel
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Elixir
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Erlang
+https://github.com/seanpm2001/Learn-Epigram
+https://github.com/seanpm2001/Learn-Orwell
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Orwell
+https://github.com/seanpm2001/Learn-Thrift
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Thrift
+https://github.com/seanpm2001/Learn-NextFlow
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NextFlow
+[ALREADY STARRED] https://github.com/seanpm2001/Learn-GCC-Machine-Description
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Epigram
+https://github.com/seanpm2001/Learn-Self
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GCC-Machine-Description
+https://github.com/seanpm2001/Learn-HolyC
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Self
+https://github.com/seanpm2001/Learn-Joy
+

@@ -1,0 +1,40 @@
+@seanpm2001
+https://github.com/Raku/please-turn-off-the-autowatch-feature
+https://github.com/Raku/6.d-prep
+https://github.com/Raku/marketing
+https://github.com/Raku/synopsebot
+https://github.com/Raku/ecosystem-unbitrot
+https://github.com/Raku/atom-language-perl6
+https://github.com/Raku/Blin
+https://github.com/Raku/geth
+https://github.com/Raku/nqp-configure
+https://github.com/Raku/setup-raku
+https://github.com/Raku/rakubrew.org
+https://github.com/sass/homebrew-sass
+@seanwallawalla
+https://github.com/seanpm2001/MemeMachine-2019
+https://github.com/seanpm2001/AGRAN-Programming-language
+https://github.com/seanpm2001/Seanwallawalla-operating-systems
+[ALREADY STARRED] https://github.com/seanpm2001/Seanwallawallagaming
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-elibrary
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-live
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-secondchannel
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-animation
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-stats
+https://github.com/seanpm2001/seanwallawalla-music
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-business
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-spm
+[ALREADY STARRED] https://github.com/seanpm2001/seanwallawalla-school
+https://github.com/seanpm2001/GitHub_Statistics
+https://github.com/seanpm2001/SNU_2D_HTTPStatusCodeList
+[ALREADY STARRED] https://github.com/seanpm2001/bitchecker
+https://github.com/seanpm2001/SWave_Starter
+https://github.com/seanpm2001/Password_Generator_Ultimate
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_DeepSwap
+https://github.com/seanpm2001/uDonate
+https://github.com/seanpm2001/The-Dystopian-Dictionary
+https://github.com/seanpm2001/The-Existential-Index
+https://github.com/seanpm2001/Git-image
+https://github.com/seanpm2001/Snapshot-version-control-system
+https://github.com/seanpm2001/WacOS_10.14
+[ALREADY STARRED] https://github.com/seanpm2001/Snapshots-Version-Control-System

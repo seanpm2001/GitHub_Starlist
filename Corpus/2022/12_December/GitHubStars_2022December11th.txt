@@ -1,0 +1,60 @@
+@seanpm2001
+https://github.com/tensorflow/addons
+https://github.com/tensorflow/hub
+https://github.com/tensorflow/benchmarks
+https://github.com/tensorflow/model-optimization
+https://github.com/tensorflow/cloud
+https://github.com/tensorflow/rust
+https://github.com/tensorflow/nmt
+https://github.com/tensorflow/profiler
+https://github.com/tensorflow/quantum
+https://github.com/tensorflow/tcav
+https://github.com/tensorflow/compression
+https://github.com/tensorflow/model-card-toolkit
+https://github.com/tensorflow/tpu
+https://github.com/tensorflow/fairness-indicators
+https://github.com/tensorflow/graphics
+https://github.com/tensorflow/ecosystem
+https://github.com/tensorflow/mesh
+https://github.com/tensorflow/dtensor-gcp-examples
+https://github.com/tensorflow/build
+@seanwallawalla
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lisp_-LISt_Processor-
+[ALREADY STARRED] https://github.com/seanpm2001/Objective-JSharp
+[ALREADY STARRED] https://github.com/seanpm2001/Military-ethics
+[ALREADY STARRED] https://github.com/seanpm2001/uOffice_LIBrary_DVCS
+[ALREADY STARRED] https://github.com/seanpm2001/ReStructuredText_Sandbox
+https://github.com/seanpm2001/Makefile_Testing
+https://github.com/seanpm2001/SSS_FlightTracker
+https://github.com/seanpm2001/SSS_Elf
+https://github.com/seanpm2001/SSS_ProgrammerTidbits
+https://github.com/seanpm2001/Learn-Miranda
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Miranda
+https://github.com/seanpm2001/Learn-ML
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ML
+[ALREADY STARRED] https://github.com/seanpm2001/Linux-computer-compatibility
+https://github.com/seanpm2001/SeansLifeArchive_Images_LegoTower_Y2023
+https://github.com/seanpm2001/Learn-Piglatin
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ApachePig
+https://github.com/seanpm2001/Learn-J
+https://github.com/seanpm2001/Learn-REBOL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_REBOL
+https://github.com/seanpm2001/Learn-Macaulay2
+https://github.com/seanpm2001/Learn-PureBasic
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureBASIC
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Macaulay2
+https://github.com/seanpm2001/SSS_ChristmasArcade
+https://github.com/seanpm2001/SSS_Client
+https://github.com/seanpm2001/Learn-Ragel
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ragel
+https://github.com/seanpm2001/Learn-Motoko
+https://github.com/seanpm2001/Learn-Verilog
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Motoko
+https://github.com/seanpm2001/Learn-Refal
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Refal
+https://github.com/seanpm2001/Learn-SCSS
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SCSS
+https://github.com/seanpm2001/Learn-Nemerle
+https://github.com/seanpm2001/Learn-Sed
+-- SCOPE

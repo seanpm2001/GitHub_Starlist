@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/guard/guard-bundler
+https://github.com/guard/guard-jasmine
+https://github.com/guard/guard-minitest
+https://github.com/guard/guard-compat
+[EMPTY, WON'T STAR] https://github.com/guard/listen-kqueue
+[EMPTY, WON'T STAR] https://github.com/guard/listen-fsevents
+[EMPTY, WON'T STAR] https://github.com/guard/listen-inotify
+https://github.com/guard/guard-process
+https://github.com/guard/guard-haml
+https://github.com/guard/guard-ronn
+https://github.com/guard/guard-less
+https://github.com/guard/guard-spork
+https://github.com/guard/guard-yield
+https://github.com/Macaulay2/Workshop-2019-Minneapolis
+https://github.com/Macaulay2/Workshop-2020-Warwick
+https://github.com/Macaulay2/M2-emacs
+https://github.com/Macaulay2/Workshop-2016-Utah
+https://github.com/Macaulay2/Workshop-2020-Cleveland
+https://github.com/Macaulay2/Macaulay2.github.io
+https://github.com/Macaulay2/Workshop-2018-Leipzig
+https://github.com/Macaulay2/Workshop-2019-Saarbruecken
+https://github.com/Macaulay2/Workshop-2018-Madison
+https://github.com/Macaulay2/nash
+https://github.com/Macaulay2/Workshop-2016-Warwick
+@seanwallawalla
+https://github.com/seanpm2001/Team8Collection.github.io
+https://github.com/seanpm2001/Boom-Bay.github.io
+https://github.com/seanpm2001/Frog-mania.github.io
+https://github.com/seanpm2001/GitHubby-development.github.io
+https://github.com/seanpm2001/SimZonns.github.io
+https://github.com/seanpm2001/Bosky-dev.github.io
+https://github.com/seanpm2001/FINF-dev.github.io
+https://github.com/seanpm2001/ZooTree.github.io
+https://github.com/seanpm2001/QMeadows-development.github.io
+https://github.com/seanpm2001/Documentation
+https://github.com/seanpm2001/Learn-FreeBasic
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FreeBasic
+https://github.com/seanpm2001/Learn-DroppedText
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DroppedText
+https://github.com/seanpm2001/Learn-Seanpm2001-Matrix
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyDeathStar_Y2023
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Roff
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Venus
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Neptune
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Dwarf_Pluto
+https://github.com/seanpm2001/Learn-EBNF
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_EBNF
+https://github.com/seanpm2001/Learn-PlPGSQL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PlPGSQL
+https://github.com/seanpm2001/Learn-PureScript
+-- SCOPE

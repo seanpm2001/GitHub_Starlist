@@ -1,0 +1,47 @@
+@seanpm2001
+https://github.com/android/input-samples
+https://github.com/android/fit-samples
+https://github.com/android/topeka
+https://github.com/android/sensors-samples
+https://github.com/android/.github
+https://github.com/android/xAnd11
+https://github.com/android/android-ktx
+https://github.com/android/kotlin-guides
+https://github.com/android/kotlin-multiplatform-samples
+https://github.com/android/car-samples
+https://github.com/android/neural-networks-samples
+https://github.com/android/renderscript-samples
+https://github.com/android/packager-manager-samples
+https://github.com/android/android-studio-poet
+https://github.com/android/remote-provisioning-cbor
+https://github.com/android/user-interface-samples
+https://github.com/android/security-samples
+@seanwallawalla
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gherkin
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Befunge
+https://github.com/seanpm2001/Learn-S-RECODE-Template
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_S-RECODE-Template
+https://github.com/seanpm2001/Learn-TXL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TXL
+https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Module-Management-System
+https://github.com/seanpm2001/Learn-LiveScript
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LiveScript
+https://github.com/seanpm2001/Learn-Wierd
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Wierd
+https://github.com/seanpm2001/Learn-Augeas
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Augeas
+https://github.com/seanpm2001/Learn-OpenCL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenCL
+https://github.com/seanpm2001/Learn-X-Pixmap
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_X-Pixmap
+https://github.com/seanpm2001/Learn-FP
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FP
+https://github.com/seanpm2001/Learn-CH
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CH
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MoonScript
+https://github.com/seanpm2001/Learn-PLSQL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IDL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PLSQL
+https://github.com/seanpm2001/Learn-TSX
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TSX

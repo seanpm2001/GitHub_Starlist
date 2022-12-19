@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/gradle/performance-comparisons
+https://github.com/gradle/gradle-enterprise-oss-projects
+https://github.com/gradle/gradle-project-templates
+https://github.com/gradle/bt-dev-prod-data-collector
+https://github.com/gradle/test-retry-gradle-plugin
+https://github.com/gradle/ge-customer-support-zendesk-theme
+https://github.com/gradle/.github
+https://github.com/gradle/wrapper-upgrade-gradle-plugin
+https://github.com/gradle/gradle-enterprise-testing-annotations
+https://github.com/gradle/perf-android-large-2
+https://github.com/gradle/wrapper-validation-action
+https://github.com/gradle/santa-tracker-performance
+https://github.com/gradle/gradle-benchmark-base
+https://github.com/gradle/cc-hackathon-2022
+https://github.com/gradle/configuration-cache-report
+https://github.com/gradle/source-resolution-demo
+https://github.com/gradle/native-platform
+https://github.com/gradle/build-tool-training-exercises
+https://github.com/gradle/provider-api-migration-testbed
+https://github.com/gradle/gradle-completion
+https://github.com/Kotlin/KEEP
+https://github.com/gradle/gradle-site-plugin
+https://github.com/gradle/kotlin-dsl-conventions
+https://github.com/gradle/exemplar
+https://github.com/gradle/build-tool-roadmap
+@seanwallawalla
+https://github.com/seanpm2001/GK-Keyboard
+https://github.com/seanpm2001/Kommunism
+https://github.com/seanpm2001/Underune_Maker
+https://github.com/seanpm2001/Polyworks-SquareOff
+https://github.com/seanpm2001/Slick-LM
+https://github.com/seanpm2001/DeskLocker
+https://github.com/seanpm2001/README-Desktop-LIBrary
+https://github.com/seanpm2001/Snail-bob-maker
+https://github.com/seanpm2001/TalkScript
+https://github.com/seanpm2001/WakeNote
+https://github.com/seanpm2001/Python-Traceback-Examples
+https://github.com/seanpm2001/Scratch_Master
+https://github.com/seanpm2001/CompuBunker
+https://github.com/seanpm2001/SNU_CardStack
+https://github.com/seanpm2001/SNU_2D_Books
+https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool
+https://github.com/seanpm2001/Stock-Elevator-LIBrary
+[ALREADY STARRED] https://github.com/seanpm2001/LinkLax
+https://github.com/seanpm2001/CH3-c-K
+https://github.com/seanpm2001/bitchecker
+[ALREADY STARRED] https://github.com/seanpm2001/Pynuke128
+[ALREADY STARRED] https://github.com/seanpm2001/TimeoutToolkit
+[ALREADY STARRED] https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y
+https://github.com/seanpm2001/Zoom-sucks
+[ALREADY STARRED] https://github.com/seanpm2001/Year-of-the-Linux-desktop

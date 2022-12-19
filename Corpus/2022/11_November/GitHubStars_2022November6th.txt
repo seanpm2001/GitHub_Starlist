@@ -1,0 +1,47 @@
+@seanpm2001
+https://github.com/atom/fs-admin
+https://github.com/atom/node-keytar
+https://github.com/atom/github
+https://github.com/atom/flight-manual.atom.io
+https://github.com/atom/teletype
+https://github.com/atom/image-view
+https://github.com/atom/spell-check
+https://github.com/atom/language-typescript
+https://github.com/atom/atom-select-list
+https://github.com/atom/electron-link
+[ALREADY STARRED] https://github.com/atom/atom
+https://github.com/atom/node-ls-archive
+https://github.com/atom/node-ctags
+https://github.com/atom/git-utils
+https://github.com/atom/scandal
+https://github.com/atom/first-mate
+https://github.com/atom/fs-plus
+@seanwallawalla
+https://github.com/seanpm2001/Learn-Prolog
+[ALREADY STARRED] https://github.com/seanpm2001/Learn-Cython
+https://github.com/seanpm2001/Learn-Agda
+https://github.com/seanpm2001/Learn-Mathematica
+https://github.com/seanpm2001/Learn-nesC
+https://github.com/seanpm2001/Learn-QSharp
+https://github.com/seanpm2001/Learn-Raku
+https://github.com/seanpm2001/Learn-SciLab
+https://github.com/seanpm2001/Learn-Haskell
+https://github.com/seanpm2001/Learn-BrightScript
+[ALREADY STARRED] https://github.com/seanpm2001/Learn-Lua
+https://github.com/seanpm2001/Learn-XML
+https://github.com/seanpm2001/Learn-Dylan
+https://github.com/seanpm2001/Learn-Java
+https://github.com/seanpm2001/Learn-GDScript
+https://github.com/seanpm2001/Learn-Perl
+https://github.com/seanpm2001/Learn-INI
+https://github.com/seanpm2001/Learn-IDL
+https://github.com/seanpm2001/Learn-Ballerina
+https://github.com/seanpm2001/Learn-Julia
+https://github.com/seanpm2001/Learn_V
+https://github.com/seanpm2001/Learn-JavaScript
+https://github.com/seanpm2001/Learn-FORTRAN
+[ALREADY STARRED] https://github.com/seanpm2001/Learn-PHP
+https://github.com/seanpm2001/Learn-RMarkdown
+https://github.com/seanpm2001/Learn-Shell
+https://github.com/seanpm2001/Learn-Inform
+https://github.com/seanpm2001/Learn-Mercury

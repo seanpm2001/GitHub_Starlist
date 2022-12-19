@@ -1,0 +1,63 @@
+@seanpm2001
+https://github.com/tensorflow/docs-l10n
+https://github.com/tensorflow/similarity
+https://github.com/tensorflow/tfjs-website
+https://github.com/tensorflow/metadata
+https://github.com/tensorflow/data-validation
+https://github.com/tensorflow/agents
+https://github.com/tensorflow/tensor2tensor
+https://github.com/tensorflow/tfhub.dev
+https://github.com/tensorflow/model-analysis
+https://github.com/tensorflow/tfjs-models
+https://github.com/tensorflow/io
+https://github.com/tensorflow/tflite-support
+https://github.com/tensorflow/privacy
+https://github.com/tensorflow/tensorrt
+https://github.com/tensorflow/recommenders
+https://github.com/tensorflow/decision-forests
+https://github.com/tensorflow/lattice
+https://github.com/tensorflow/transform
+https://github.com/tensorflow/examples
+https://github.com/tensorflow/tflite-micro-arduino-examples
+https://github.com/tensorflow/tensorboard
+@seanwallawalla
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSound-Document
+https://github.com/seanpm2001/Linux_Defender_YARA_CVE_Database
+https://github.com/seanpm2001/Seanpm2001-InteractiveFiction
+https://github.com/seanpm2001/Learn-CSound-Score
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSound-Score
+https://github.com/seanpm2001/Learn-JSON
+https://github.com/seanpm2001/Learn-Gerber-Image
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gerber-Image
+https://github.com/seanpm2001/OS_Census
+https://github.com/seanpm2001/Learn-GetText
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GetText
+https://github.com/seanpm2001/Learn-Graphviz-DOT
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GraphViz-DOT
+[ALREADY STARRED] https://github.com/seanpm2001/Snowcraft
+[ALREADY STARRED] https://github.com/seanpm2001/Halloween-Assistant
+[ALREADY STARRED] https://github.com/seanpm2001/RailRAM-Train-Collection
+[ALREADY STARRED] https://github.com/seanpm2001/Team8_Collection
+https://github.com/seanpm2001/NexxFetch
+https://github.com/seanpm2001/SeansLifeArchive_Images_DiscoZoo_Y2023
+https://github.com/seanpm2001/SearchKX
+https://github.com/seanpm2001/SNU_2D_Lodger
+https://github.com/seanpm2001/Santa_Software_Suite_Core
+https://github.com/seanpm2001/Learn-IntelHexBinary
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IntelHexBinary
+[ALREADY STARRED] https://github.com/seanpm2001/seanpm2001_gistrepository
+https://github.com/seanpm2001/Gist_Seanpm2001-GitHubProfileNavigation
+https://github.com/seanpm2001/Learn-PostScript
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PostScript
+https://github.com/seanpm2001/Gist_Seanpm_OnGitHub
+https://github.com/seanpm2001/Learn-Less
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LESS
+[ALREADY STARRED] https://github.com/seanpm2001/-microMiniwave
+[ALREADY STARRED] https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend
+[ALREADY STARRED] https://github.com/seanpm2001/Zoom-sucks
+[ALREADY STARRED] https://github.com/seanpm2001/Linux-computer-compatibility
+[ALREADY STARRED] https://github.com/seanpm2001/Computer-cursor-tech-support
+https://github.com/seanpm2001/Learn-Limbo
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Limbo
+https://github.com/seanpm2001/Objective-JPP
+https://github.com/seanpm2001/Learn-LISP

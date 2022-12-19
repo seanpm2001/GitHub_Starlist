@@ -1,0 +1,69 @@
+@seanpm2001
+https://github.com/snapcore/snapd
+https://github.com/snapcore/models
+https://github.com/snapcore/core-base
+https://github.com/OpenPrinting/ipp-usb
+https://github.com/OpenPrinting/pyppd
+https://github.com/OpenPrinting/goipp
+https://github.com/OpenPrinting/printer-application-framework
+https://github.com/OpenPrinting/foomatic-db-engine-4
+https://github.com/OpenPrinting/foomatic-db-nonfree
+https://github.com/snapcore/snapcraft
+https://github.com/snapcore/spread-cron
+https://github.com/snapcore/snapd-testing
+https://github.com/snapcore/spread-images
+https://github.com/snapcore/snapd-glib
+https://github.com/snapcore/core20
+https://github.com/snapcore/plymouth-theme-ubuntu-core
+@seanwallawalla
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ballerina
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BrightScript
+https://github.com/seanpm2001/Learn-Seed7
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Seed7
+https://github.com/seanpm2001/Learn-Oberon
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Oberon
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HAML
+https://github.com/seanpm2001/Learn-Modula-2
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modula-2
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AWK
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Boo
+https://github.com/seanpm2001/Learn-Modula-3
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modula-3
+https://github.com/seanpm2001/Learn-SystemVerilog
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SystemVerilog
+https://github.com/seanpm2001/Learn-Creole
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Creole
+https://github.com/seanpm2001/Learn-HCL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HCL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_Sharp
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSS_-Cascade_Styling_Sheets-
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_COBOL
+https://github.com/seanpm2001/Learn-GLSL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GLSL
+https://github.com/seanpm2001/Learn-HLSL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HLSL
+https://github.com/seanpm2001/Learn-DTrace
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DTrace
+https://github.com/seanpm2001/Learn-LispFlavoredErlang
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lisp-Flavored-Erlang_LFE
+https://github.com/seanpm2001/Learn-HAML
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_Plus_Plus
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cython
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Clean
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Crystal
+https://github.com/seanpm2001/Learn-XProc
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XProc
+https://github.com/seanpm2001/Learn-OpenPolicyAgent
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenPolicyAgent
+https://github.com/seanpm2001/Learn-Euphoria
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Euphoria
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Clojure
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dart
+https://github.com/seanpm2001/Learn-QMake
+https://github.com/seanpm2001/Learn-SaltStack
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SaltStack
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gosu
+https://github.com/seanpm2001/Learn-HiveQL
+https://github.com/seanpm2001/Learn-Gosu
+

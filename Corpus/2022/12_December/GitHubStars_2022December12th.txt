@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/tensorflow/custom-op
+https://github.com/tensorflow/gan
+https://github.com/tensorflow/lucid
+https://github.com/tensorflow/java-ndarray
+https://github.com/tensorflow/toolchains
+https://github.com/tensorflow/kfac
+https://github.com/tensorflow/swift
+https://github.com/tensorflow/java-models
+https://github.com/tensorflow/networking
+https://github.com/tensorflow/tfrc
+https://github.com/tensorflow/tensorstore
+https://github.com/tensorflow/skflow
+https://github.com/tensorflow/adanet
+https://github.com/tensorflow/fold
+https://github.com/tensorflow/workshops
+https://github.com/tensorflow/mlir
+https://github.com/tensorflow/minigo
+https://github.com/tensorflow/swift-models
+@seanwallawalla
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Sed
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nemerle
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Uranus
+https://github.com/seanpm2001/iBlast_Docs
+https://github.com/seanpm2001/Learn-SQL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language-
+https://github.com/seanpm2001/Learn-Vim-Snippet
+https://github.com/seanpm2001/Learn-StandardML
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_StandardML
+https://github.com/seanpm2001/Learn-TeX
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TeX
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Vim-Snippet
+https://github.com/seanpm2001/Learn-TSQL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TSQL
+https://github.com/seanpm2001/ChargeFX
+https://github.com/seanpm2001/Learn-Verilog-AMS
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+[ALREADY STARRED] https://github.com/seanpm2001/AirBnB
+[ALREADY STARRED] https://github.com/seanpm2001/SMS-Messaging-with-Sean
+https://github.com/seanpm2001/Seanpm2001-Templates
+https://github.com/seanpm2001/Seanwallawalla-Docs
+https://github.com/seanpm2001/Rasple
+https://github.com/seanpm2001/Meadows_WebMode
+https://github.com/seanpm2001/Learn-Linker-Script
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Linker-Script
+https://github.com/seanpm2001/Learn-Monkey-C
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Monkey-C
+https://github.com/seanpm2001/Learn-Pod6
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pod6
+https://github.com/seanpm2001/Learn-Perl6
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Perl6
+-- SCOPE

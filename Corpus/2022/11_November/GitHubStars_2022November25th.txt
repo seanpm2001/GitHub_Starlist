@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/metazip/pointfrip/
+https://github.com/Fpstefan/history-backup/
+https://github.com/OpenPrinting/system-config-printer/
+https://github.com/snapcore/snapd-desktop-integration/
+[ALREADY STARRED] https://github.com/SerenityOS/serenity/
+https://github.com/graue/esofiles
+https://github.com/gkz/LiveScript
+https://github.com/pachadotdev/rick_and_morty_tidy_text
+https://github.com/xyongcn/mooc-os-srt
+https://github.com/hercules-team/augeas
+https://github.com/SerenityOS/ladybird
+https://github.com/SerenityOS/jakt
+https://github.com/SerenityOS/manpages-website
+https://github.com/SerenityOS/discord-bot
+https://github.com/SerenityOS/theming
+https://github.com/tree-sitter/tree-sitter-c-sharp
+https://github.com/tree-sitter/tree-sitter-javascript
+https://github.com/tree-sitter/node-tree-sitter
+https://github.com/tree-sitter/ruby-tree-sitter.old
+https://github.com/tree-sitter/tree-sitter-embedded-template
+@seanwallawalla
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_API-Blueprint
+https://github.com/seanpm2001/Learn-Fluent
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fluent
+https://github.com/seanpm2001/Learn-Factor
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Factor
+https://github.com/seanpm2001/Learn-Handlebars
+https://github.com/seanpm2001/Learn-Fantom
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fantom
+https://github.com/seanpm2001/Learn-Forth
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Forth
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HandleBars
+https://github.com/seanpm2001/Learn-PicoLisp
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AppleScript
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PicoLisp
+https://github.com/seanpm2001/Learn-REXX
+https://github.com/seanpm2001/Learn-NetREXX
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NetREXX
+https://github.com/seanpm2001/Learn-FCL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FCL
+https://github.com/seanpm2001/Learn-Lean
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lean
+https://github.com/seanpm2001/Learn-NewLisp
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NewLisp
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dylan
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_INI
+https://github.com/seanpm2001/Learn-UnrealScript
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_UnrealScript
+https://github.com/seanpm2001/Learn-Stylus
+https://github.com/seanpm2001/Learn-Nu
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nu

@@ -1,0 +1,53 @@
+@seanpm2001
+https://github.com/sympy/sympy_benchmarks
+https://github.com/sympy/sympy_doc
+https://github.com/sympy/live
+https://github.com/sympy/sympy.github.com
+https://github.com/sympy/sympy_gamma
+https://github.com/sympy/planet-sympy
+https://github.com/sympy/sympy-search-analytics
+https://github.com/sympy/sphinx-math-dollar
+https://github.com/sympy/sympy-web-static
+https://github.com/sympy/sympy-docs-survey
+https://github.com/JetBrains/fbme
+https://github.com/JetBrains/mps-coderules
+[ALREADY STARRED] https://github.com/rakudo/rakudo
+https://github.com/Raku/book
+https://github.com/sympy/sympy
+https://github.com/sympy/sympy-live
+https://github.com/sympy/sympy-bot
+https://github.com/sympy/sympy_rubi
+https://github.com/sympy/SymPEPs
+https://github.com/sympy/kamke-test-suite
+https://github.com/sympy/sympy-notebooks
+https://github.com/sympy/sympy-paper
+https://github.com/sympy/.github
+https://github.com/sympy/scipy-2020-tutorial
+https://github.com/sympy/scipy-2017-codegen-tutorial
+@seanwallawalla
+https://github.com/seanpm2001/Template_GitHubPages_Default_V6
+https://github.com/seanpm2001/Snapcraft-template_V4
+https://github.com/seanpm2001/Snapcraft-template_V3
+https://github.com/seanpm2001/Template_SNU_V5
+https://github.com/seanpm2001/Template_SNU_2D_ProgrammingTools_V5
+https://github.com/seanpm2001/Template_Other_V5
+https://github.com/seanpm2001/Template_Journaling_V5
+https://github.com/seanpm2001/Template_GitHubPages_Default_V5
+https://github.com/seanpm2001/Template_DeGoogle-your-Life_V1
+https://github.com/seanpm2001/Template_DeGoogle_V1
+https://github.com/seanpm2001/Template_Meadows_V1
+https://github.com/seanpm2001/Template_SNU_Default_V7
+https://github.com/seanpm2001/Template_Journaling_V7
+https://github.com/seanpm2001/Template_Other_V7
+https://github.com/seanpm2001/Snapcraft-template_V5
+https://github.com/seanpm2001/Template_SNU_2D_ProgrammingTools_V7
+https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V4
+https://github.com/seanpm2001/SNU_2D_Users_Template_Acc
+[ALREADY STARRED] https://github.com/seanpm2001/Template_SNU_V1
+[ALREADY STARRED] https://github.com/seanpm2001/Template_SNU_V2
+[ALREADY STARRED] https://github.com/seanpm2001/Template_SNU_V3
+[ALREADY STARRED] https://github.com/seanpm2001/Template_Journaling_V1
+[ALREADY STARRED] https://github.com/seanpm2001/Template_Journaling_V2
+[ALREADY STARRED] https://github.com/seanpm2001/Template_Journaling_V3
+[ALREADY STARRED] https://github.com/seanpm2001/Template_Journaling_V4
+

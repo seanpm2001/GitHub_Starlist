@@ -1,0 +1,42 @@
+@seanpm2001
+https://github.com/gradle/kotlin-relocation-test
+https://github.com/gradle/android-relocation-test
+https://github.com/gradle/native-samples
+https://github.com/gradle/gcc2speedscope
+https://github.com/gradle/plugin-portal-requests
+https://github.com/gradle/gradle-groovy-all
+https://github.com/gradle/perf-native-large
+https://github.com/gradle/troubleshooting-with-scans
+https://github.com/gradle/kotlin-dsl-samples
+https://github.com/gradle/bazel-comparison
+https://github.com/gradle/gradle-performance
+https://github.com/gradle/gradle-profiler-plugin
+https://github.com/gradle/gradle2kts
+https://github.com/gradle/greeting-plugin-example
+https://github.com/gradle/gradle-java-modules
+@seanwallawalla
+https://github.com/seanpm2001/Learn-Cython
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cython
+[ALREADY STARRED] https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
+https://github.com/seanpm2001/Learn-Go2003
+https://github.com/seanpm2001/SNU_2D_Algorithm
+https://github.com/seanpm2001/Go-ogle
+https://github.com/seanpm2001/SNU_Government
+https://github.com/seanpm2001/SNU_SiteLogo
+https://github.com/seanpm2001/Goodbye-World
+https://github.com/seanpm2001/OpenGov
+https://github.com/seanpm2001/VoiceGod
+https://github.com/seanpm2001/Google-performance-issues
+https://github.com/seanpm2001/Google-security-issues
+https://github.com/seanpm2001/Meadows_Emergency-Alert-System
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Go-_-Francis_McCabe_2003-
+https://github.com/seanpm2001/Bad-Code-Collection
+https://github.com/seanpm2001/.redirect
+[ALREADY STARRED] https://github.com/seanpm2001/RecursionBot
+https://github.com/seanpm2001/Learn-Lua
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lua
+https://github.com/seanpm2001/Setup-Go2004-GitHubAction
+https://github.com/seanpm2001/Learn-ActionScript-3
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ActionScript
+[ALREADY STARRED] https://github.com/seanpm2001/AdBool
+https://github.com/seanpm2001/Halloween-Assistant

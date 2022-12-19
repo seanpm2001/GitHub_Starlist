@@ -1,0 +1,41 @@
+@seanpm2001
+https://github.com/sympy/sympygamma.com
+https://github.com/sympy/sympy-old
+https://github.com/Raku/features
+https://github.com/Raku/user-experience
+https://github.com/Raku/old-design-docs
+https://github.com/Raku/hacktoberfest
+https://github.com/Raku/survey
+https://github.com/Raku/infrastructure-doc
+https://github.com/Raku/old-issue-tracker
+https://github.com/Raku/Documentable-backup
+https://github.com/Raku/github-workflow-examples
+https://github.com/Raku/tap-harness6
+https://github.com/Raku/IRC-logs
+@seanwallawalla
+[ALREADY STARRED] https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP
+https://github.com/seanpm2001/SNU_2D_YourSpace
+https://github.com/seanpm2001/SNU_2D_YouTubeMode
+https://github.com/seanpm2001/-microMiniwave
+[ALREADY STARRED] https://github.com/seanpm2001/Branch-Ranch
+[ALREADY STARRED] https://github.com/seanpm2001/Ratiyo
+https://github.com/seanpm2001/Coloress
+https://github.com/seanpm2001/SNU_ServerEssentials
+[ALREADY STARRED] https://github.com/seanpm2001/Character_Image_Research
+https://github.com/seanpm2001/ReStructuredText_Sandbox
+https://github.com/seanpm2001/SNU_LegalResourceCenter
+https://github.com/seanpm2001/SeansLifeArchive_Images_Team-Fortress-2
+https://github.com/seanpm2001/Personal-research-tank
+https://github.com/seanpm2001/PrestigePreview
+[ALREADY STARRED] https://github.com/seanpm2001/Fortran-fortress
+https://github.com/seanpm2001/SNU_2D_SnapchatMode
+https://github.com/seanpm2001/What-SNU-will-never-do
+https://github.com/seanpm2001/Hatium
+https://github.com/seanpm2001/SeansLifeArchive_Images_Hate-comments
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_HateSpeechFilters
+https://github.com/seanpm2001/OVPVMO-site
+https://github.com/seanpm2001/Project-Quantum-OverDrive
+[ALREADY STARRED] https://github.com/seanpm2001/New-Years-Tag
+https://github.com/seanpm2001/SirIsaacNewtonOS
+https://github.com/seanpm2001/SirIsaacNewtonScript
+

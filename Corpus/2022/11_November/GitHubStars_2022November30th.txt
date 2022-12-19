@@ -1,0 +1,59 @@
+@seanpm2001
+https://github.com/snapcore/pi-gadget
+https://github.com/snapcore/snapcraft-desktop-integration
+https://github.com/wkgcass/Latte-lang
+https://github.com/GrammaticalFramework/comp-syntax-gu-mlt
+https://github.com/GrammaticalFramework/gf-ud
+https://github.com/GrammaticalFramework/gf-contrib
+https://github.com/biglinux/biglinux-multi-kde
+https://github.com/GrammaticalFramework/gf-rgl
+https://github.com/GrammaticalFramework/gf-wordnet
+https://github.com/GrammaticalFramework/gf-core
+https://github.com/GrammaticalFramework/gftest
+https://github.com/GrammaticalFramework/gf-typescript
+https://github.com/notepadqq/NotepadqqApi_Nodejs
+https://github.com/notepadqq/NotepadqqApi_Python
+https://github.com/notepadqq/NotepadqqApi_Ruby
+https://github.com/missing-semester/missing-semester
+https://github.com/missing-semester/videos
+https://github.com/GrammaticalFramework/gfss-2021
+https://github.com/GrammaticalFramework/comp-syntax-2020
+https://github.com/GrammaticalFramework/rgl-source-browser
+https://github.com/GrammaticalFramework/gf-tagger
+https://github.com/GrammaticalFramework/gf-summerschool-2018
+https://github.com/GrammaticalFramework/gf-offline-translator
+@seanwallawalla
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Inno_Setup
+https://github.com/seanpm2001/Learn-Sage
+https://github.com/seanpm2001/Learn-DIGITAL-Command-Language
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DIGITAL-Command-Language
+https://github.com/seanpm2001/Learn-Lex
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lex
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Sage
+https://github.com/seanpm2001/Learn-Puppet
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Puppet
+https://github.com/seanpm2001/Learn-POV-Ray-SDL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_POV-Ray-SDL
+https://github.com/seanpm2001/Learn-ShaderLab
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ShaderLab
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IsabelleProofAssistant
+https://github.com/seanpm2001/Learn-AssemblyScript
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Julia
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AssemblyScript
+https://github.com/seanpm2001/Learn-Fancy
+https://github.com/seanpm2001/Learn-OpenSCAD
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenSCAD
+https://github.com/seanpm2001/Learn-E
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_E
+https://github.com/seanpm2001/Learn-NASL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NASL
+https://github.com/seanpm2001/Learn-NSIS
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NSIS
+https://github.com/seanpm2001/Learn-AMPL
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AMPL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fancy
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Java
+https://github.com/seanpm2001/Learn-Smarty
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JavaScript
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Smarty
+

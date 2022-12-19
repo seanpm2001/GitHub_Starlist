@@ -1,0 +1,39 @@
+@seanpm2001
+https://github.com/atom/space-pen-example-templates
+https://github.com/atom/autocomplete-snippets
+https://github.com/atom/markdown-preview
+https://github.com/atom/husk-sample
+https://github.com/atom/service-hub
+https://github.com/atom/notifications
+https://github.com/atom/jasmine-json
+https://github.com/atom/decoration-example
+https://github.com/atom/grim
+https://github.com/atom/scoped-property-store
+https://github.com/atom/atom-keymap
+https://github.com/atom/language-css
+@seanwallawalla
+https://github.com/seanpm2001/Learn-DogeScript
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DogeScript
+https://github.com/seanpm2001/Learn-LOLCODE
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Red
+https://github.com/seanpm2001/Learn-Clean
+https://github.com/seanpm2001/Learn-Crystal
+https://github.com/seanpm2001/Learn-WDL
+https://github.com/seanpm2001/Learn-PostGreSQL
+https://github.com/seanpm2001/Learn-Hack
+https://github.com/seanpm2001/Learn-Elixir
+https://github.com/seanpm2001/GitHub_Flag_History
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nim-Nimrod-
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TOML
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MoonScript
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_COBOL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pony
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Yacc
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gherkin
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XQuery
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cap-n-Proto
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ceylon
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenQASM
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ANTLR
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Brainfuck
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Elm
