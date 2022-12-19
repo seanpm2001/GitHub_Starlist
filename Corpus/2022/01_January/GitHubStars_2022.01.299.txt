@@ -1,0 +1,6 @@
+https://github.com/ganeti/ganeti
+https://github.com/ganeti/ganeti.org
+https://github.com/ganeti/docs
+https://github.com/ganeti/website
+https://github.com/0ad/0ad
+

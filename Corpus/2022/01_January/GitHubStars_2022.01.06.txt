@@ -1,0 +1,4 @@
+https://github.com/HandBrake/HandBrake-snapshots
+https://github.com/HandBrake/HandBrake-toolchains
+https://github.com/HandBrake/HandBrake-contribs
+

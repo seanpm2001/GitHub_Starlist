@@ -1,0 +1,7 @@
+https://github.com/bitcoin/bips
+https://github.com/f-droid/fdroid-website
+https://github.com/f-droid/fdroiddata
+https://github.com/f-droid/fdroidserver
+https://github.com/f-droid/fdroidclient
+https://github.com/microsoft/fluentui
+
