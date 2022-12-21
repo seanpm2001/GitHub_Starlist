@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/vincentchu/guard-flopbox
+https://github.com/ddubyah/guard-markdown
+https://github.com/branch14/guard-mozrepl
+https://github.com/dreamr/guard-chef
+https://github.com/arailsdemo/guard-jstd
+https://github.com/carhartl/guard-phantomjs
+https://github.com/maio/guard-prove
+https://github.com/kynetx/guard-krl
+https://github.com/lamdor/guard-soca
+https://github.com/txus/guard-stendhal
+https://github.com/singlebrook/guard-railstestdb
+https://github.com/walle/guard-gimli
+https://github.com/christopherhein/guard-sprite-factory
+https://github.com/kapoq/guard-jasmine-node
+https://github.com/jmgarnier/guard-autorefresh
+https://github.com/fajarmf/Rails-Autotester
+https://github.com/stevehodgkiss/guard-sprockets2
+https://github.com/johnbintz/guard-hydra
+https://github.com/eremeyev/guard-zen
+@seanwallawalla
+https://github.com/seanpm2001/Android-x64_Android13_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android13_LiveCD_Edition
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PEG.js
+https://github.com/seanpm2001/Learn-Jakarta-Server-Pages
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jakarta-Server-Pages
+https://github.com/seanpm2001/Candroid-Phone
+https://github.com/seanpm2001/Candroid-Debug
+https://github.com/seanpm2001/Android-x64_Android12_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android12_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android12_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android12_LiveCD_Edition
+https://github.com/seanpm2001/Learn-Java-Server-Pages
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Java-Server-Pages
+https://github.com/seanpm2001/Candroid-Keyboard
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ASP_Dot_NET
+https://github.com/seanpm2001/Candroid-Catalogue
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ActionServerPages-ASP-
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Krita
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABC
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Steam
+[ALREADY STARRED] https://github.com/seanpm2001/Learn-PowerShell
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Typora
+[ALREADY STARRED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PowerShell
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Blender
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Jupiter
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Mars
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Neptune
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Saturn
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt_Dwarf_Pluto
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt
+-- SCOPE
