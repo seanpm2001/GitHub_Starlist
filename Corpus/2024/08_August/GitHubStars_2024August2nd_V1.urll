@@ -1,0 +1,127 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub stars
+//// DATE: 2024, Friday, August 2nd
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// @seanpm2001
+//// 43 entries (2024.08.02)
+https://github.com/JuliaMath/AccurateArithmetic.jl
+https://github.com/JuliaMath/Libm.jl
+https://github.com/JuliaMath/Yeppp.jl
+https://github.com/JuliaMath/Roadmap.jl
+https://github.com/JuliaMath/FFTWBuilder
+https://github.com/JuliaMath/GMPBuilder
+https://github.com/JuliaMath/OpenlibmBuilder
+https://github.com/JuliaMath/OpenspecfunBuilder
+https://github.com/JuliaMath/MPFRBuilder
+https://github.com/JuliaMath/DSFMTBuilder
+https://github.com/athairus/spcom
+https://github.com/anrieff/libcpuid
+https://github.com/nothings/stb
+https://github.com/lexicalunit/nanodbc
+https://github.com/conda-forge/admin-migrations
+https://github.com/spotify/scio
+https://github.com/spotify/voyager
+https://github.com/spotify/chartify
+https://github.com/spotify/mobius
+https://github.com/spotify/pedalboard
+https://github.com/spotify/basic-pitch
+//// ALREADY STARRED AND FORKED: https://github.com/spotify/annoy
+https://github.com/spotify/annoy-java
+https://github.com/bitpay/wallet
+https://github.com/bitpay/bitcore-lib
+//// ALREADY STARRED AND FORKED: https://github.com/bitpay/bitcore
+https://github.com/bitpay/bitcore-wallet-service
+https://github.com/bitpay/insight
+https://github.com/bitpay/bitauth
+https://github.com/bitpay/cordova-plugin-qrscanner
+//// DUPLICATE: https://github.com/bitpay/bitauth
+https://github.com/bitpay/bitcore-node
+https://github.com/bitpay/bitcoind-rpc
+//// ALREADY STARRED AND FORKED: https://github.com/elastic/elasticsearch
+//// ALREADY STARRED AND FORKED: https://github.com/elastic/kibana
+https://github.com/elastic/logstash
+https://github.com/elastic/beats
+https://github.com/GrayMamoru/GrayMamoru
+https://github.com/johndoe1117/johndoe1117
+https://github.com/KCblama19/KCblama19
+https://github.com/Connor9994/Connor9994
+https://github.com/sharafdin/sharafdin
+https://github.com/bearjobsniper/bearjobsniper
+//// ALREADY STARRED AND FORKED: https://github.com/elastic/ecs
+https://github.com/elastic/elasticsearch-php
+https://github.com/elastic/elasticsearch-js
+https://github.com/elastic/elastic-otel-java
+https://github.com/elastic/elasticsearch-java
+https://github.com/elastic/apm-server
+//// Logged in GitHubForks (a separate file)
+//// Dead links
+//// None
+//// Forks
+//// None
+//// Empty repositories
+//// None
+//// Already starred and forked
+//// None
+//// End @seanpm2001.general
+//// @seanwallawalla
+https://github.com/seanpm2001/GSoD
+//// @seanpm2001
+https://github.com/JuliaMath/AccurateArithmetic.jl
+https://github.com/JuliaMath/Libm.jl
+https://github.com/JuliaMath/Yeppp.jl
+https://github.com/JuliaMath/Roadmap.jl
+https://github.com/JuliaMath/FFTWBuilder
+https://github.com/JuliaMath/GMPBuilder
+https://github.com/JuliaMath/OpenlibmBuilder
+https://github.com/JuliaMath/OpenspecfunBuilder
+https://github.com/JuliaMath/MPFRBuilder
+https://github.com/JuliaMath/DSFMTBuilder
+https://github.com/athairus/spcom
+https://github.com/anrieff/libcpuid
+https://github.com/nothings/stb
+https://github.com/lexicalunit/nanodbc
+https://github.com/conda-forge/admin-migrations
+https://github.com/spotify/scio
+https://github.com/spotify/voyager
+https://github.com/spotify/chartify
+https://github.com/spotify/mobius
+https://github.com/spotify/pedalboard
+https://github.com/spotify/basic-pitch
+https://github.com/spotify/annoy
+https://github.com/spotify/annoy-java
+https://github.com/bitpay/wallet
+https://github.com/bitpay/bitcore-lib
+https://github.com/bitpay/bitcore
+https://github.com/bitpay/bitcore-wallet-service
+https://github.com/bitpay/insight
+https://github.com/bitpay/bitauth
+https://github.com/bitpay/cordova-plugin-qrscanner
+https://github.com/bitpay/bitauth
+https://github.com/bitpay/bitcore-node
+https://github.com/bitpay/bitcoind-rpc
+https://github.com/elastic/elasticsearch
+https://github.com/elastic/kibana
+https://github.com/elastic/logstash
+https://github.com/elastic/beats
+https://github.com/elastic/ecs
+https://github.com/elastic/apm
+https://github.com/elastic/integrations
+https://github.com/elastic/cloud-on-k8s
+https://github.com/elastic/built-docs
+https://github.com/elastic/elasticsearch-labs
+https://github.com/elastic/elastic-otel-java
+https://github.com/elastic/elasticsearch-java
+https://github.com/elastic/apm-server
+https://github.com/elastic/eui
+https://github.com/elastic/go-elasticsearch
+https://github.com/elastic/elasticsearch-php
+https://github.com/elastic/elasticsearch-js
+//// End @seanpm2001.ogPlans
+//// @seanwallawalla
+//// Original plans (before 2024, Friday, August 2nd)
+https://github.com/seanpm2001/GSoD
+//// TEMPLATE: The 7th entry was added to the emergency reserves/vacation queue
+//// End @seanwallawalla.ogPlans
+//// End of file (EOF)

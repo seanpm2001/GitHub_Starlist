@@ -1,0 +1,121 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub stars
+//// DATE: 2024, Thursday, August 1st
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// @seanpm2001
+//// 43 entries (2024.08.01)
+https://github.com/JuliaMath/GSL.jl
+https://github.com/JuliaMath/Primes.jl
+https://github.com/JuliaMath/Tau.jl
+https://github.com/JuliaMath/RealDot.jl
+https://github.com/JuliaMath/IrrationalConstants.jl
+https://github.com/JuliaMath/IntelVectorMath.jl
+https://github.com/JuliaMath/CheckedArithmetic.jl
+https://github.com/JuliaMath/DoubleFloats.jl
+https://github.com/JuliaMath/RealFFTs.jl
+https://github.com/JuliaMath/Infinities.jl
+https://github.com/JuliaMath/BFloat16s.jl
+https://github.com/JuliaMath/MeasureBase.jl
+https://github.com/JuliaMath/HCubature.jl
+https://github.com/JuliaMath/Cubature.jl
+https://github.com/JuliaMath/Hadamard.jl
+https://github.com/JuliaMath/IntervalSets.jl
+https://github.com/JuliaMath/IntegerMathUtils.jl
+https://github.com/JuliaMath/Calculus.jl
+https://github.com/JuliaMath/KahanSummation.jl
+https://github.com/JuliaMath/Quadmath.jl
+https://github.com/JuliaMath/openlibm
+https://github.com/JuliaMath/FastPow.jl
+https://github.com/JuliaMath/NaNMath.jl
+https://github.com/JuliaMath/Richardson.jl
+https://github.com/JuliaMath/Xsum.jl
+https://github.com/JuliaMath/DecFP.jl
+https://github.com/JuliaMath/Decimals.jl
+https://github.com/JuliaMath/FunctionZeros.jl
+https://github.com/JuliaMath/FastChebInterp.jl
+https://github.com/JuliaMath/ChangePrecision.jl
+https://github.com/JuliaMath/FixedPointDecimals.jl
+https://github.com/JuliaMath/RandomMatrices.jl
+https://github.com/JuliaMath/RoundingIntegers.jl
+https://github.com/JuliaMath/Sobol.jl
+https://github.com/JuliaMath/Float8s.jl
+https://github.com/JuliaMath/DoubleDouble.jl
+https://github.com/JuliaMath/FunctionAccuracyTests.jl
+https://github.com/JuliaMath/InverseLaplace.jl
+https://github.com/JuliaMath/NFFT.jl
+https://github.com/JuliaMath/ILog2.jl
+https://github.com/JuliaMath/MittagLeffler.jl
+https://github.com/JuliaMath/LambertW.jl
+https://github.com/anti-dominator/anti-dominator
+//// Repository renames
+//// Logged in GitHubForks (a separate file)
+//// Dead links
+//// None
+//// Forks
+//// None
+//// Empty repositories
+//// None
+//// Already starred and forked
+//// None
+//// End @seanpm2001.general
+//// @seanwallawalla
+https://github.com/seanpm2001/Seanpm2001-GSoD
+//// @seanpm2001
+https://github.com/JuliaMath/GSL.jl
+https://github.com/JuliaMath/Primes.jl
+https://github.com/JuliaMath/Tau.jl
+https://github.com/JuliaMath/RealDot.jl
+https://github.com/JuliaMath/IrrationalConstants.jl
+https://github.com/JuliaMath/IntelVectorMath.jl
+https://github.com/JuliaMath/CheckedArithmetic.jl
+https://github.com/JuliaMath/DoubleFloats.jl
+https://github.com/JuliaMath/RealFFTs.jl
+https://github.com/JuliaMath/Infinities.jl
+https://github.com/JuliaMath/BFloat16s.jl
+https://github.com/JuliaMath/MeasureBase.jl
+https://github.com/JuliaMath/HCubature.jl
+https://github.com/JuliaMath/Cubature.jl
+https://github.com/JuliaMath/Hadamard.jl
+https://github.com/JuliaMath/IntervalSets.jl
+https://github.com/JuliaMath/IntegerMathUtils.jl
+https://github.com/JuliaMath/Calculus.jl
+https://github.com/JuliaMath/KahanSummation.jl
+https://github.com/JuliaMath/Quadmath.jl
+https://github.com/JuliaMath/openlibm
+https://github.com/JuliaMath/FastPow.jl
+https://github.com/JuliaMath/NaNMath.jl
+https://github.com/JuliaMath/Richardson.jl
+https://github.com/JuliaMath/Xsum.jl
+https://github.com/JuliaMath/DecFP.jl
+https://github.com/JuliaMath/Decimals.jl
+https://github.com/JuliaMath/FunctionZeros.jl
+https://github.com/JuliaMath/FastChebInterp.jl
+https://github.com/JuliaMath/ChangePrecision.jl
+https://github.com/JuliaMath/FixedPointDecimals.jl
+https://github.com/JuliaMath/RandomMatrices.jl
+https://github.com/JuliaMath/RoundingIntegers.jl
+https://github.com/JuliaMath/Sobol.jl
+https://github.com/JuliaMath/Float8s.jl
+https://github.com/JuliaMath/DoubleDouble.jl
+https://github.com/JuliaMath/FunctionAccuracyTests.jl
+https://github.com/JuliaMath/InverseLaplace.jl
+https://github.com/JuliaMath/NFFT.jl
+https://github.com/JuliaMath/ILog2.jl
+https://github.com/JuliaMath/MittagLeffler.jl
+https://github.com/JuliaMath/LambertW.jl
+https://github.com/JuliaMath/AccurateArithmetic.jl
+https://github.com/JuliaMath/Libm.jl
+https://github.com/JuliaMath/Yeppp.jl
+https://github.com/JuliaMath/Roadmap.jl
+https://github.com/JuliaMath/FFTWBuilder
+https://github.com/JuliaMath/GMPBuilder
+https://github.com/JuliaMath/OpenlibmBuilder
+//// End @seanpm2001.ogPlans
+//// @seanwallawalla
+//// Original plans (before 2024, Thursday, August 1st)
+https://github.com/seanpm2001/Seanpm2001-GSoD
+//// TEMPLATE: The 7th entry was added to the emergency reserves/vacation queue
+//// End @seanwallawalla.ogPlans
+//// End of file (EOF)
